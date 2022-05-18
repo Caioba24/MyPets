@@ -79,7 +79,7 @@ public class CafeBadilico_activity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getApplicationContext(),
-                        "reservou parabéns!",
+                        "reservou em maloqueiro!",
                         Toast.LENGTH_LONG).show();
             }
         });
